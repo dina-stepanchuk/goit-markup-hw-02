@@ -13,12 +13,13 @@ link {
 }
 
 .logo {
+  font-weight: 700;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   text-decoration: none;
   text-transform: uppercase;
-  letter-spacing: 3px;
-  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  line-height: 1.17;
   color: #4d5ae5;
 }
 
